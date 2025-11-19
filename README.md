@@ -2,20 +2,28 @@
 [Group member names] Ginevra Terenghi; Antonella Autuori
 ## [Project title] Trillullì
 
-### Data Collection
-- Where did you get your data from? [source/s link]
-- What’s your data about? [describe]
-- Who is/are the sources/creators of your data?
+### Visualisation
+# Upload here your visualisation. You can use a screenshots, a video/gif (if you need to show the interaction)
+# Link to the prototype or website (if available)
 
-### Data Organisation
-- Have you combined data from different sources? How did you merge them?</li>
-- What columns are more relevant for your project?</li>
-- Have you used any AI-based tool to understand or manipulate your data? if yes, what and how?</li>
+### Abstract (300 charachters)
+This project investigates how people claim to communicate with alien species by gathering posts, reports, and shared experiences from online communities and public archives. The material was organized, coded, and grouped to uncover repeating themes and moments of collective attention. To make the findings clearer, the grouped data was transformed into timelines and location-based views that show when and where the conversations intensified. The highlights point to shared narratives appearing across different communities, synchronized waves of reported signals, and recurring ideas about how contact might take place.
 
-
+### Protocol Diagram
 ```mermaid
 flowchart TD
   A("#UFO") --> B{"APIFY"}
   B --> C["Instagram<br/>100 most viral posts"]
   B --> D["TikTok<br/>100 most viral posts"]
 ```
+
+### What topic does the visualisation address?
+
+
+### What data have you considered?
+# Specify the format and sources. Use also images/screenshots to describe your dataset.
+
+
+### What does the visualisation show?
+# List three key insights emerging from your visualisation. 
+
